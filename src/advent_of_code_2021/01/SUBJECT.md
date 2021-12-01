@@ -1,3 +1,9 @@
+-----------------------------------
+
+![image](https://user-images.githubusercontent.com/57910428/144281441-eec7da11-8aa3-4be9-a747-702828059072.png)
+
+-----------------------------------
+
 ### --- Day 1: Sonar Sweep ---
 
 You're minding your own business on a ship at sea when the overboard alarm goes off! You rush to see if you can help. Apparently, one of the Elves tripped and accidentally sent the sleigh keys flying into the ocean!
