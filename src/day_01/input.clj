@@ -1,4 +1,4 @@
-(ns advent-of-code-2021.01.input)
+(ns day-01.input)
 
 ;;; This input data was received from the challenge website.
 
