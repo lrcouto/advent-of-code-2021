@@ -1,3 +1,9 @@
+--------------------------------
+
+![image](https://user-images.githubusercontent.com/57910428/144470125-57000aaf-1df4-4b66-b845-a2322ac37696.png)
+
+--------------------------------
+
 ### --- Day 2: Dive! ---
 
 Now, you need to figure out how to pilot this thing.
