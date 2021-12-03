@@ -5,7 +5,7 @@ Doing it in Clojure as a challenge and learning opportunity.
 
 **01**  ☑️
 **02**  ☑️
-**03**  🔲
+**03**  ☑️
 **04**  🔲
 **05**  🔲 <br>
 **06**  🔲
