@@ -1,3 +1,9 @@
+---------------------------------------------------------
+
+![image](https://user-images.githubusercontent.com/57910428/144679094-436e6e27-9e94-46e3-b613-095a5eb664d5.png)
+
+---------------------------------------------------------
+
 ### --- Day 3: Binary Diagnostic ---
 
 The submarine has been making some odd creaking noises, so you ask it to produce a diagnostic report just in case.
